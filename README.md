@@ -1,6 +1,6 @@
 # Desafio da Trilha de CSS da [DIO](https://www.dio.me/)
 
-Landing Page feita em HTML5 e CSS5. Aqui, foram colocados em prática todos os conhecimentos adquiridos ao longo das aulas, como fundamentos do CSS, propriedades básicas de estilização além de unidades de medidas relativas e absolutas.
+Landing Page feita em HTML5 e CSS5. Aqui, foram colocados em prática todos os conhecimentos adquiridos ao longo das aulas, como, fundamentos do CSS, propriedades básicas de estilização além de unidades de medidas relativas e absolutas.
 
 Resultado Final: https://nycolemendonca.github.io/landing-page-trilha-css-dio/
 
