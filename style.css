@@ -15,6 +15,14 @@ body {
     background-color: #181818;
 }
 
+body::-webkit-scrollbar {
+    width: 5px;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #1472B7;
+}
+
 h2 {
     font-size: 2rem;
     color: #33A8DB;
