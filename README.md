@@ -5,3 +5,5 @@ Landing Page feita em HTML5 e CSS5. Aqui, foram colocados em prática todos os c
 Resultado Final: https://nycolemendonca.github.io/landing-page-trilha-css-dio/
 
 [Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=0%3A1&t=L4KMfJLkevWjexTf-0) contendo o protótipo do desafio.
+
+![Resultado Final da Landing Page](https://github.com/nycolemendonca/landing-page-trilha-css-dio/blob/main/resultado-trilha-css.png)
